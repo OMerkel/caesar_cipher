@@ -6,7 +6,7 @@ Caesar Cipher / Shift Cipher encryption technique based tool.
 <em>Start a session in browser on http://omerkel.github.io/caesar_cipher/html5/src </em>
 
 The basic concept of the Caesar Cipher is one of the encryption techniques
-that should have been used by Gaius Iulius Caesar (*July 100BC; &dagger;March
+that is said to have been used by Gaius Iulius Caesar (*July 100BC; &dagger;March
 15th, 44BC) to protect message exchange among his military troops.
 
 Caesar Cipher encryption is basically performed by monoalphabetic character
