@@ -1,12 +1,11 @@
-
 /**
  * @file hmi.js
- * @author Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de
+ * @author Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de>
  * @date 2015 July 31
  *
  * @section LICENSE
  *
- * Copyright 2015, Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de
+ * Copyright 2015, Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de>
  * All rights reserved.
  *
  * Released under the MIT license.
@@ -18,6 +17,7 @@
  * Class representing the view or Hmi of the Caesar Cipher / Shift Cipher encryption technique based tool.
  *
  */
+
 function Hmi() {
   // this.FILEBACKGROUND = 'img/board.jpg';
   this.ALPHABET = 'abcdefghijklmnopqrstuvwxyz';
