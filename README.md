@@ -11,11 +11,26 @@ that is said to have been used by Gaius Iulius Caesar (*July 100BC; &dagger;Marc
 15th, 44BC) to protect message exchange among his military troops.
 
 Caesar Cipher encryption is basically performed by monoalphabetic character
-substitution applying a positional shift in a given alphabet. Reversing
-the shift by same amount of positions with same alphabet decrypts the
-ciphered text into plain text again. Such that the secret key in this
-symmetric cipher is represented by the number respresenting the amount
-of positions to shift and the usage of the correct alphabet to be applied.
+substitution. Substitution is performed by applying a positional shift
+in a given alphabet. Reversing the shift by same amount of positions with
+same alphabet decrypts the ciphered text into plain text again.
+Such that the secret key in this symmetric cipher is represented by
+
+* the number respresenting the amount of positions to shift, and
+* the usage of the correct alphabet to be applied.
+
+Compared to modern encryption techniques the Caesar Cipher is rated
+to be a weak encryption. Still it obviously has historical relevance
+and is popular since simple to understand.
+
+A common attack to decrypt the cipher is to use a frequency analysis
+of the signs in use and compare the sign frequencies towards empirical
+frequencies of letters in an assumed or related target language, e.g.
+the assumption that the letter 'e' has characteristic high frequency
+in languages like English or German. Obviously such an statistical
+attack works better on huger amount of ciphered texts since the
+measured frequency spectrum gets closer to the empirical spectrum for
+natural language.
 
 ### Contributors / Authors
 
