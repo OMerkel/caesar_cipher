@@ -29,8 +29,8 @@ frequencies of letters in an assumed or related target language, e.g.
 the assumption that the letter 'e' has characteristic high frequency
 in languages like English or German. Obviously such an statistical
 attack works better on huger amount of ciphered texts since the
-measured frequency spectrum gets closer to the empirical spectrum for
-natural language.
+measured frequency spectrum gets closer towards the empirical spectrum
+for natural language.
 
 ### Contributors / Authors
 
