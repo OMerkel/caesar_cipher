@@ -1,9 +1,9 @@
-<img src="http://omerkel.github.io/caesar_cipher/html5/src/img/icons/caesar-128.png" /> Caesar Cipher
+<img src="html5/src/img/icons/caesar128.png" /> Caesar Cipher
 =============
 
 Caesar Cipher / Shift Cipher encryption technique based tool.
 
-<em>Start a session in browser on http://omerkel.github.io/caesar_cipher/html5/src </em>
+<em>Start a session in browser on http://omerkel.github.io/caesar_cipher/html5/src</em>
 
 The basic concept of the Caesar Cipher is one of the encryption techniques
 that is said to have been used by Gaius Iulius Caesar (*July 100BC; &dagger;March
