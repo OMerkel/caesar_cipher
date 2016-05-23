@@ -1,4 +1,4 @@
-<img alt="Caesar Cipher" width="64" src="html5/src/img/icons/caesar-64.png" /> Caesar Cipher
+<img alt="Caesar Cipher" width="64" src="html5/src/img/icons/caesar64.png" /> Caesar Cipher
 =============
 
 * <em>Start an online</em> <b>Caesar Cipher</b> <em>session on</em> http://omerkel.github.io/caesar_cipher/html5/src
