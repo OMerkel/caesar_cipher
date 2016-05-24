@@ -9,7 +9,7 @@ conditions are required by law.
 The original bust can be found in the
 [Museo Archeologico Nazionale di Napoli, Piazza Museo Nazionale, 19, 80135 - Napoli, Italy](http://cir.campania.beniculturali.it/museoarcheologiconazionale).
 
-<img src="http://omerkel.github.io/caesar_cipher/html5/src/img/icons/caesar-128.png" />
+<img src="icon-caesar-128.png" />
 
 The icons you can find in this repository are derived images from A. Wahra's work.
 These icons are created by [Oliver Merkel](../../../AUTHORS). The icons are licensed under
