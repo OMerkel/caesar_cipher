@@ -3,6 +3,9 @@
 
 * <em>Start an online</em> <b>Caesar Cipher</b> <em>session on</em> http://omerkel.github.io/caesar_cipher/html5/src
 * <em>Also published in</em> <a href="https://marketplace.firefox.com/app/caesar-cipher"><img align="middle" width="150px" src="https://marketplace.cdn.mozilla.net/media/fireplace/img/pretty/marketplace_logo.png" /></a>
+* <em>Runs in various browsers on</em>
+    * <em>desktop systems like BSDs, Linux, Win, MacOS and</em>
+    * <em>mobile platforms like Android, FirefoxOS, iOS.</em>
 
 Caesar Cipher / Shift Cipher encryption technique based tool.
 
