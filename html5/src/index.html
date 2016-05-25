@@ -74,6 +74,8 @@ If not otherwise stated all graphics (independent of its format) are licensed un
       </noscript>
       <div data-role='collapsible' data-collapsed='false'>
         <h1>Caesar Cipher Decoder</h1>
+        <label for='frequenciescipheredtext'>Character Frequency of Ciphered Text</label>
+        <div id='frequenciescipheredtext'></div>
         <label for='caesarcipheredtext'>Caesar Ciphered Text</label>
         <textarea name='caesarcipheredtext' id='caesarcipheredtext'></textarea>
         <table width='100%'>
@@ -89,10 +91,12 @@ If not otherwise stated all graphics (independent of its format) are licensed un
           <input type='radio' name='choicedecryptalphabet' id='decryptalphabetstandard' value='choice-decryptalphabetstandard' checked='checked'>
           <label for='decryptalphabetstandard'>Use standard alphabet, ignore numbers, Umlauts and special characters</label>
           <input type='radio' name='choicedecryptalphabet' id='decryptalphabetcustom' value='choice-decryptalphabetcustom'>
-          <label for='decryptalphabetcustom'>Use custom alphabet</label>           
+          <label for='decryptalphabetcustom'>Use custom alphabet</label>
         </fieldset>
         <label for='decryptcustomalphabet'>Custom alphabet</label>
-        <input name='decryptcustomalphabet' id='decryptcustomalphabet' data-clear-btn='true'></input>        
+        <input name='decryptcustomalphabet' id='decryptcustomalphabet' data-clear-btn='true'></input>
+        <label for='frequenciesdecryptedtext'>Character Frequency of Decrypted Text</label>
+        <div id='frequenciesdecryptedtext'></div>
         <label for='decryptedtext'>Decrypted Text</label>
         <textarea name='decryptedtext' id='decryptedtext'>?</textarea>
       </div>
@@ -113,10 +117,10 @@ If not otherwise stated all graphics (independent of its format) are licensed un
           <input type='radio' name='choiceencryptalphabet' id='encryptalphabetstandard' value='choice-encryptalphabetstandard' checked='checked'>
           <label for='encryptalphabetstandard'>Use standard alphabet, ignore numbers, Umlauts and special characters</label>
           <input type='radio' name='choiceencryptalphabet' id='encryptalphabetcustom' value='choice-encryptalphabetcustom'>
-          <label for='encryptalphabetcustom'>Use custom alphabet</label>           
+          <label for='encryptalphabetcustom'>Use custom alphabet</label>
         </fieldset>
         <label for='encryptcustomalphabet'>Custom alphabet</label>
-        <input name='encryptcustomalphabet' id='encryptcustomalphabet' data-clear-btn='true'></input>        
+        <input name='encryptcustomalphabet' id='encryptcustomalphabet' data-clear-btn='true'></input>
         <label for='encryptedtext'>Encrypted Text</label>
         <textarea name='encryptedtext' id='encryptedtext'>?</textarea>
       </div>

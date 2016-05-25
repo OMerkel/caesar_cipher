@@ -2,11 +2,11 @@
 /**
  * @file ciphercaesar.js
  * @author Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de
- * @date 2015 July 31
+ * @date 2016 May 25th
  *
  * @section LICENSE
  *
- * Copyright 2015, Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de
+ * Copyright 2016, Oliver Merkel <Merkel(dot)Oliver(at)web(dot)de
  * All rights reserved.
  *
  * Released under the MIT license.
@@ -40,7 +40,7 @@ CipherCaesar.prototype.decrypt = function ( alphabets, shift, cipheredtext ) {
       var position = alphabet.indexOf(c);
       found = -1 == position ? null : { position: position, alphabet: alphabet };
     }
-    while( 0 > shift ) {
+    while( 0 > shift && null !== found ) {
       shift += found.alphabet.length;
     }
     result += null === found ? c :
