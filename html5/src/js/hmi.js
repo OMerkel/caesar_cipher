@@ -50,7 +50,7 @@ Hmi.prototype.init = function () {
 
 Hmi.prototype.frequency = function ( id, task, src ) {
   var h = 50;
-  var w = window.innerWidth / 2;
+  var w = document.body.clientWidth - 66;
   var r = this.papers[ id ];
   r.setSize( w, h );
   r.clear();
@@ -167,6 +167,8 @@ Hmi.prototype.resize = function () {
     'background-size': size+'px ' + size+'px',
   });
   $('#main').css({ 'padding-top': size+'px', });
+  this.decrypt();
+  this.encrypt();
 };
 
 $(function() { (new Hmi()).init(); });
