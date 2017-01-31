@@ -41,7 +41,7 @@ for natural language.
 
 <table>
   <tr>
-    <td><p>Oliver Merkel, the oculus of the Pantheon's
+    <td><p>Oliver Merkel, at the oculus of the Pantheon's
       dome in Rome, Italy,<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This image is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.    
     </p>
     </td>
