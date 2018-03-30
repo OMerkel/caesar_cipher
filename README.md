@@ -2,7 +2,6 @@
 =============
 
 &#x25CF; <em>Start an online</em> <b>Caesar Cipher</b> <em>session on</em> http://omerkel.github.io/caesar_cipher/html5/src<br />
-&#x25CF; <em>Also published in</em> <a href="https://marketplace.firefox.com/app/caesar-cipher"><img align="middle" width="150px" src="https://marketplace.cdn.mozilla.net/media/fireplace/img/pretty/marketplace_logo.png" /></a><br />
 &#x25CF; <em>Android APK available for install</em> <img align="top" width="32" src="res/android.gif" /> https://github.com/OMerkel/caesar_cipher/releases/tag/release_0.2<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2218; requires minimum Android 4.4.2 (API-19)<br />
 &#x25CF; <em>Runs in various browsers on</em><br />
